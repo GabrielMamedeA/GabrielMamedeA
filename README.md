@@ -41,7 +41,7 @@
 
 - 📌 Advanced C memory management & algorithms  
 - 📌 Neural Networks & AI concepts  
-- 📌 Clean Architecture and REST APIs with Spring Boot  
+- 📌 Clean Architecture and REST APIs with Spring Boot and FASTapi
 
 ---
 
